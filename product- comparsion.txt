@@ -1,0 +1,9 @@
+ELECTRONICS PRODUCT COMPARISON
+
+1. Headphones - Rs.1999
+2. Smartwatch - Rs.1996
+3. Smartphone - Rs.20000
+
+Headphones are used for listening to music.
+Smartwatches are used for tracking fitness and time.
+Smartphones are used for calling, browsing, and communication.
